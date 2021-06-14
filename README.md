@@ -1,4 +1,4 @@
-TODO: Write a README
+There is not much to see here
 
 <!---
 
