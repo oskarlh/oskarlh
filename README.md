@@ -2,6 +2,10 @@ There is not much to see here, but welcome
 
 <!---
 
+I should check out these for inspiration:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+
 - 👋 Hi, I’m @oskarlh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
